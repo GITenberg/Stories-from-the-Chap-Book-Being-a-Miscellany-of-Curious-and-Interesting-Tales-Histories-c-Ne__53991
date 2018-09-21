@@ -1,5 +1,5 @@
 _repo: Stories-from-the-Chap-Book-Being-a-Miscellany-of-Curious-and-Interesting-Tales-Histories-c-Ne__53991
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Holloway, William, Jr.
@@ -17,7 +17,7 @@ contributor:
     gutenberg_agent_id: '25725'
     url: http://www.gutenberg.org/2009/agents/25725
   - agent_name: Ross, Clinton
-    birthdate: &id001 1861
+    birthdate: 1861
     deathdate: 1920
     gutenberg_agent_id: '49651'
     url: http://www.gutenberg.org/2009/agents/49651
@@ -35,7 +35,7 @@ contributor:
     gutenberg_agent_id: '49648'
     url: http://www.gutenberg.org/2009/agents/49648
   - agent_name: Cummings, Edward
-    birthdate: *id001
+    birthdate: 1861
     deathdate: 1926
     gutenberg_agent_id: '49647'
     url: http://www.gutenberg.org/2009/agents/49647
@@ -59,7 +59,12 @@ contributor:
     gutenberg_agent_id: '2578'
     url: http://www.gutenberg.org/2009/agents/2578
     wikipedia: http://en.wikipedia.org/wiki/Katharine_Lee_Bates
+covers:
+- cover_type: archival
+  image_path: 53991-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53991#Stories-from-the-Chap-Book-Being-a-Miscellany-of-Curious-and-Interesting-Tales-Histories-c-Ne_
 gutenberg_issued: '2017-01-18'
 gutenberg_type: Text
 identifiers:
