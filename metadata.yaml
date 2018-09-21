@@ -1,0 +1,85 @@
+_repo: Stories-from-the-Chap-Book-Being-a-Miscellany-of-Curious-and-Interesting-Tales-Histories-c-Ne__53991
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Holloway, William, Jr.
+    gutenberg_agent_id: '49649'
+    url: http://www.gutenberg.org/2009/agents/49649
+  - agent_name: Boyce, Neith
+    birthdate: 1872
+    deathdate: 1951
+    gutenberg_agent_id: '49645'
+    url: http://www.gutenberg.org/2009/agents/49645
+  - agent_name: Lefevre, Edwin
+    alias: Lefèvre, Edwin
+    birthdate: 1871
+    deathdate: 1943
+    gutenberg_agent_id: '25725'
+    url: http://www.gutenberg.org/2009/agents/25725
+  - agent_name: Ross, Clinton
+    birthdate: &id001 1861
+    deathdate: 1920
+    gutenberg_agent_id: '49651'
+    url: http://www.gutenberg.org/2009/agents/49651
+  - agent_name: Leland, Anthony
+    gutenberg_agent_id: '49650'
+    url: http://www.gutenberg.org/2009/agents/49650
+  - agent_name: Thanet, Octave
+    alias: French, Alice
+    birthdate: 1850
+    deathdate: 1934
+    gutenberg_agent_id: '1073'
+    url: http://www.gutenberg.org/2009/agents/1073
+  - agent_name: Williams, Anna Vernon Dorsey
+    alias: Dorsey, Anna Vernon
+    gutenberg_agent_id: '49648'
+    url: http://www.gutenberg.org/2009/agents/49648
+  - agent_name: Cummings, Edward
+    birthdate: *id001
+    deathdate: 1926
+    gutenberg_agent_id: '49647'
+    url: http://www.gutenberg.org/2009/agents/49647
+  - agent_name: Pool, Maria Louise
+    birthdate: 1841
+    deathdate: 1898
+    gutenberg_agent_id: '43412'
+    url: http://www.gutenberg.org/2009/agents/43412
+  - agent_name: Channing, Grace Ellery
+    aliases:
+    - Channing-Stetson, Grace Ellery
+    - Stetson, Grace Ellery Channing
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '49646'
+    url: http://www.gutenberg.org/2009/agents/49646
+  - agent_name: Bates, Katharine Lee
+    alias: Bates, Katherine Lee
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '2578'
+    url: http://www.gutenberg.org/2009/agents/2578
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Lee_Bates
+description: ''
+gutenberg_issued: '2017-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: Whither thou goest / K. Bates -- An impassable gulf / K. Bates --
+  In a garden / N. Boyce -- Oreste's patron / G.E. Channing -- The appeal to Anne
+  / E. Cummings -- The dead oak / A.V. Dorsey -- The making of Monsieur Lescarbot's
+  ballad / W. Holloway -- On the brink / E. Lefevre -- A woman's life / A. Leland
+  -- "When the King comes in" / A. Leland -- Mandany's fool / M.L. Pool -- The way
+  to Constantinople / C. Ross -- The old partisan / Octave Thanet.
+title: "Stories from the Chap-Book\r\nBeing a Miscellany of Curious and Interesting\
+  \ Tales, Histories, &c; Newly Composed by Many Celebrated Writers and Very Delightful\
+  \ to Read."
+url: http://www.gutenberg.org/ebooks/53991
